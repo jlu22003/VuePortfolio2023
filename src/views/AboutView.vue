@@ -44,7 +44,7 @@
   <!-- end of about section -->
 </template>
 
-<style>
+<style scoped>
 .container {
   width: 90vw;
   height: 90vh;
