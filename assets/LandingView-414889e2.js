@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as o,a as c}from"./index-c367e389.js";const n={},t={class:"home"},a=c("h1",null,"This is landing page",-1),_=[a];function i(r,d){return s(),o("div",t,_)}const h=e(n,[["render",i]]);export{h as default};
